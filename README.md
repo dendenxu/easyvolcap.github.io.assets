@@ -68,8 +68,8 @@ https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/a561bd41
 Offline:
 
 
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/05c4c5c8-9fd4-4823-ab3a-b18aa2612e32
 
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/35cd97d2-c85b-4794-b61a-2dbb9a1d3b76
 
 
 
@@ -86,8 +86,7 @@ ENeRFi Generalization:
 Offline:
 
 
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/9fde203f-e75c-4009-9aa2-1dc6aaf69c08
-
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/35cd97d2-c85b-4794-b61a-2dbb9a1d3b76
 
 GUI:
 
@@ -99,7 +98,9 @@ Offline:
 
 
 
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/05c4c5c8-9fd4-4823-ab3a-b18aa2612e32
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/9fde203f-e75c-4009-9aa2-1dc6aaf69c08
+
+
 
 
 
