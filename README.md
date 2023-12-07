@@ -23,6 +23,23 @@ https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/b39ca0ac
 ENeRFi Generalization:
 
 
+Offline:
+
+
+
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/f3639f8b-20f8-4c69-8a5f-ec04252b52f8
+
+
+GUI:
+
+
+
+
+
+
+
+
+
 ENeRF Generalization:
 
 
@@ -42,6 +59,48 @@ Instant-NGP+T:
 Offline:
 
 https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/a561bd41-3239-43b5-b174-612d4ce18ea4
+
+
+## Dynamic Demos
+
+3DGS+T:
+
+Offline:
+
+
+
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/35cd97d2-c85b-4794-b61a-2dbb9a1d3b76
+
+
+
+GUI:
+
+
+
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/027aad78-dbff-46c8-be0f-cb7b7b0e9788
+
+
+
+ENeRFi Generalization:
+
+Offline:
+
+
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/9fde203f-e75c-4009-9aa2-1dc6aaf69c08
+
+
+GUI:
+
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/3f883b94-088e-4cba-b3d4-329ed05fe8eb
+
+Instant-NGP+T:
+
+Offline:
+
+
+
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/05c4c5c8-9fd4-4823-ab3a-b18aa2612e32
+
 
 
 ## 4K4D Demos
