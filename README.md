@@ -2,189 +2,62 @@
 
 Video assets for ***EasyVolcap***.
 
-## Short Overview Video
+## Renamed Videos
 
-SIGGRAPH Asia Overview:
 
+easyvolcap_short_overview.mp4
 
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/babc9999-acf0-4608-a977-12b7d971a0b5
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/57f012f9-2626-4bb2-bd73-bd283a976a7d
 
+gaussiant_zju3dv_render.mp4
 
-SIGGRAPH Asia Submission:
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/cb9b737a-cc3d-4ab9-b559-15d55ffc94b4
 
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/3a1e35d7-b540-4888-a254-9e6c7d888226
+gaussiant_zju3dv_demo.mp4
 
-## Static Demos
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/cc20e704-2069-4a22-a1e2-d8cefa507031
 
-Gaussian+T:
+enerf_zju3dv_render.mp4
 
-Offline:
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/ef021cb0-7860-4816-8d07-92fd764cdf34
 
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/a8c5630d-b046-473c-972d-3a55b7708709
+enerf_zju3dv_demo.mp4
 
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/11325dfc-801d-4142-906c-9fd3797176e3
 
-GUI:
+l3mhet_zju3dv_render.mp4
 
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/b39ca0ac-4a4b-4680-ab15-3b8f1e46bd15
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/82135dbc-8267-44b6-863e-8b0298de3d6c
 
+gaussiant_actor1_4_subseq_render.mp4
 
-ENeRFi Generalization:
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/8f177e8a-9e2a-4847-a662-408f0005b29a
 
+gaussiant_actor1_4_subseq_demo.mp4
 
-Offline:
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/e5a3c8e4-2d34-47d3-a41a-0e7717a9a4fc
 
+enerfi_actor1_4_subseq_render.mp4
 
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/1b145cf5-1676-4f62-8dc4-17ea34a1d067
 
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/f3639f8b-20f8-4c69-8a5f-ec04252b52f8
+enerfi_actor1_4_subseq_demo.mp4
 
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/2a7b0e3f-1e8a-454c-b9fd-e96aa6842f92
 
-GUI:
+l3mhet_actor1_4_subseq_render.mp4
 
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/b507200f-c6b4-4759-b2f2-82f1e1d681fa
 
+4k4d_dance3_demo.mp4
 
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/faf60953-fd7f-4309-a1f5-758eaa1182ca
 
+4k4d_0008_01_demo.mp4
 
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/b03247d6-07c7-48d7-8e28-2d59ee3c37af
 
+4k4d_0013_01_demo.mp4
 
-
-
-ENeRF Generalization:
-
-
-Offline:
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/bf97ecf6-679c-4a3b-9da7-7865e9125f3c
-
-
-GUI:
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/a9f0f770-506f-47df-8068-7a04d47a66bd
-
-
-
-Instant-NGP+T:
-
-Offline:
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/a561bd41-3239-43b5-b174-612d4ce18ea4
-
-
-## Dynamic Demos
-
-3DGS+T:
-
-Offline:
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/05c4c5c8-9fd4-4823-ab3a-b18aa2612e32
-
-
-
-
-GUI:
-
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/027aad78-dbff-46c8-be0f-cb7b7b0e9788
-
-
-
-ENeRFi Generalization:
-
-Offline:
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/35cd97d2-c85b-4794-b61a-2dbb9a1d3b76
-
-GUI:
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/3f883b94-088e-4cba-b3d4-329ed05fe8eb
-
-Instant-NGP+T:
-
-Offline:
-
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/9fde203f-e75c-4009-9aa2-1dc6aaf69c08
-
-
-
-
-
-## 4K4D Demos
-
-
-Mobile-Stage: dance3
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/92860bc5-cdd7-4a65-ac02-bac26dda1b9e
-
-
-DNA-Rendering: 0008_01
-
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/131af979-b51e-498a-a444-3de4a240e087
-
-
-DNA-Rendering: 0013_01
-
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/7cce98df-0994-4a31-bd48-1792d38044de
-
-
-
-DNA-Rendering: 0013_09
-
-
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/97a087e5-f33c-4514-97a5-5b4ef8a742d0
-
-
-DNA-Rendering: 0019_08
-
-
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/b32ac0f2-57f2-4b89-9931-a33059ce4198
-
-
-
-
-DNA-Rendering: 0023_06
-
-
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/66b2b5b9-fce5-41c6-b7cc-f437e4a35afc
-
-
-
-NHR: basketball
-
-
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/23824712-4fc3-4c42-966a-1c593acfbf05
-
-
-NHR: sport1
-
-
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/055c24e4-0f34-497b-82be-e06a6a700d56
-
-
-
-
-Neural3DV: cut_roasted_beef
-
-
-
-
-https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/28d104d5-4a4e-4e13-a896-e314ba3f5576
+https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/379b2793-eda2-4720-a1ad-cbfd2205af4d
 
