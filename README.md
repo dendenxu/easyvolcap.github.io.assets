@@ -2,7 +2,7 @@
 
 Video assets for ***EasyVolcap***.
 
-easyvolcap_fast_forward.mp4
+easyvolcap_fastforward.mp4
 
 https://github.com/dendenxu/easyvolcap.github.io.assets/assets/43734697/67bde1bf-7f59-4518-9abf-496290e08d4f
 
